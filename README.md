@@ -1,2 +1,2 @@
 # antd-svelte
-An antd- component library implemented by svelte
+An antd-styled component library implemented by svelte
